@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="w_dc">358dp</dimen>
+    <dimen name="w_zz">400dp</dimen>
+    <dimen name="layout_marginBottom">24dp</dimen>
+    <dimen name="layout_marginBottom_two">30dp</dimen>
+</resources>

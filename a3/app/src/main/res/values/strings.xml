@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">a3</string>
+    <string name="description">Please shake to prophesy your fortune.</string>
+    <string name="Advice">** This is a personal belief. Please use your discretion when making a prediction. **</string>
+    <string name="result_title">Your Fortune</string>
+    <string name="ok">agree</string>
+
+    <!-- คำทำนาย -->
+    <string-array name="predictions">
+        <item>Card 1 : Good fortune is on your way.\nBe alert and seize every opportunity that comes your way.
+               You will find success in your ventures.</item>
+        <item>Card 2 : Success is near.\nStay focused and diligent, and you will overcome any obstacles.
+               Your hard work will pay off soon.</item>
+        <item>Card 3 : Be cautious with your health.\nPay attention to your diet and exercise regularly.
+               Your well-being should be your top priority.</item>
+        <item>Card 4 : A big change is coming.\nEmbrace new experiences and take calculated risks.
+               This change will lead to positive results.</item>
+        <item>Card 5 : Love is in the air.\nYou may meet someone special soon.
+               Keep your heart open and be ready for a new beginning.</item>
+        <item>Card 6: Financial stability ahead\nYour hard work is about to pay off.
+            Expect a period of financial growth and stability soon.</item>
+        <item>Card 7: Overcoming obstacles\nThe challenges you are facing now will soon pass.
+            Stay strong, and you will emerge victorious.</item>
+        <item>Card 8: A journey awaits\nA trip or adventure is on the horizon.
+            This journey will bring new experiences and growth.</item>
+        <item>Card 9: Harmony and balance\nFocus on bringing balance into your life.
+            Once you achieve peace within, everything else will follow smoothly.</item>
+
+    </string-array>
+</resources>

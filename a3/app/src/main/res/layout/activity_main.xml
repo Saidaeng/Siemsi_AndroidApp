@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <ImageView
+            android:id="@+id/image_view"
+            android:layout_width="@dimen/w_zz"
+            android:layout_height="@dimen/w_zz"
+            android:src="@drawable/zz1"
+            android:layout_marginBottom="@dimen/layout_marginBottom" />
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="@dimen/w_dc"
+            android:layout_height="wrap_content"
+            android:text="@string/description"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:layout_marginBottom="@dimen/layout_marginBottom_two"
+            />
+
+        <TextView
+            android:id="@+id/advice"
+            android:layout_width="@dimen/w_dc"
+            android:layout_height="wrap_content"
+            android:text="@string/Advice"
+            android:textColor="@color/red"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            tools:ignore="RtlSymmetry" />
+    </LinearLayout>
+</LinearLayout>
